@@ -1,2 +1,25 @@
 Question1:
-    
+    https://github.com/bdirksen/CMPUT404Lab4
+
+Question2:
+    the debug screen
+
+Question3:
+    hello, world. You're at the polls index.
+
+Question4:
+    the migration updates the database without having to reset INSTALLED_APPS
+
+Question5:
+    the polls app, to get custom models to appear in django admin page we have to register them in admin.py
+
+Question6:
+    it shows question 38 and the choices for that question
+
+Question7:
+    if we change the url later we would have to change the url in the template as well
+
+Question8:
+    they are easier to code and more secure. generic views are better for views that are close to existing views but worse for views that are very different from existing views
+
+Question9:
